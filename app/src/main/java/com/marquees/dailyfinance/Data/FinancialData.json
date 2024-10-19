@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1",
+    "name": "Home Equity Loan",
+    "description": "A home equity loan allows homeowners to borrow against the equity in their property, typically with a fixed interest rate. It provides a lump sum that is repaid over a set term.",
+    "type": "housing"
+  },
+  {
+    "id": "2",
+    "name": "ETF/Mutual Funds",
+    "description": "An ETF is an investment fund that is traded on stock exchanges, similar to stocks. It typically tracks an index, commodity, or a basket of assets and can be bought and sold throughout the trading day. Mutual funds pool money from multiple investors to purchase a diversified portfolio of stocks, bonds, or other securities. They are managed by professional portfolio managers and offer investors a way to diversify without needing to buy individual securities.",
+    "type": "stock"
+  },
+  {
+    "id": "3",
+    "name": "Consumer Staples",
+    "description": "Consumer staples are essential goods that people regularly purchase, such as food, beverages, and household products. These items tend to have stable demand regardless of economic conditions.",
+    "type": "stock"
+  },
+  {
+    "id": "4",
+    "name": "Consumer Discretionary",
+    "description": "Consumer discretionary refers to goods and services that are non-essential and tend to be purchased when consumers have disposable income, such as luxury items, entertainment, and dining. Demand for these products fluctuates with economic cycles.",
+    "type": "stock"
+  },
+  {
+    "id": "5",
+    "name": "Blockchain",
+    "description": "Blockchain is a decentralized digital ledger technology that securely records transactions across multiple computers. It ensures transparency and immutability, making it the backbone of cryptocurrencies.",
+    "type": "crypto"
+  },
+  {
+    "id": "6",
+    "name": "Cryptocurrency",
+    "description": "Cryptocurrency is a digital or virtual currency that uses cryptography for security, making it difficult to counterfeit. It operates on decentralized networks based on blockchain technology.",
+    "type": "crypto"
+  },
+  {
+    "id": "7",
+    "name": "P/E Ratio",
+    "description": "The P/E ratio is a valuation metric that compares a company's current share price to its earnings per share (EPS). It helps investors assess whether a stock is overvalued or undervalued relative to its earnings.",
+    "type": "stock"
+  },
+  {
+    "id": "8",
+    "name": "Reverse Mortgage",
+    "description": "A reverse mortgage allows homeowners, typically seniors, to convert part of their home equity into cash while retaining ownership of the home. The loan is repaid when the homeowner sells the house, moves out, or passes away.",
+    "type": "home"
+  },
+  {
+    "id": "9",
+    "name": "HELOC",
+    "description": "A HELOC is a revolving line of credit secured by the equity in a home, allowing homeowners to borrow as needed up to a predetermined limit. It typically has a variable interest rate and can be used for various expenses.",
+    "type": "home"
+  },
+  {
+    "id": "10",
+    "name": "CD",
+    "description": "A CD is a time deposit offered by banks that pays a fixed interest rate over a specified term. It typically offers higher interest rates than regular savings accounts but requires the money to be locked in for the duration.",
+    "type": "savings"
+  },
+  {
+    "id": "11",
+    "name": "Bonds",
+    "description": "Bonds are debt securities issued by governments or corporations to raise capital, where the issuer agrees to pay back the principal plus interest at a later date. They are considered a safer investment compared to stocks, with fixed returns.",
+    "type": "savings"
+  },
+  {
+    "id": "12",
+    "name": "Options",
+    "description": "Options are financial derivatives that give investors the right, but not the obligation, to buy or sell an underlying asset at a predetermined price before a specified expiration date. They can be used for hedging or speculative purposes.",
+    "type": "stock"
+  },
+  {
+    "id": "12",
+    "name": "Futures",
+    "description": "Futures are standardized contracts to buy or sell an asset at a predetermined price at a future date. They are commonly used in commodities trading and can help manage price risk.",
+    "type": "stock"
+  },
+  {
+    "id": "12",
+    "name": "REITs",
+    "description": "REITs are companies that own, operate, or finance income-producing real estate and allow investors to buy shares in real estate portfolios. They typically pay out most of their taxable income as dividends, providing a way to invest in real estate without direct ownership.",
+    "type": "home, stock"
+  }
+]
